@@ -27,7 +27,7 @@ Add `apollo-module-absinthe` to `modules` section of `nuxt.config.js`
 ```js
 {
   // Add apollo module
-  modules: ['@nuxtjs/apollo'],
+  modules: ['apollo-module-absinthe'],
 
   // Give apollo module options
   apollo: {
